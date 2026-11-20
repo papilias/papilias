@@ -26,4 +26,4 @@ Over the past 10+ years, I've led and built delivery platforms across **enterpri
 ### Connect
 - **Portfolio:** [devops-ipap.vercel.app](https://devops-ipap.vercel.app)
 - **LinkedIn:** [linkedin.com/in/ilias-papadodimas](https://www.linkedin.com/in/ilias-papadodimas/)
-- **Email:** ipapadodimas@gmail.com
+- **Email:** papadodimas@hotmail.gr
